@@ -1,1 +1,1 @@
-# odin-recipes
+Hello! For this project I will be displaying my current skill in HTML as an beginner. By the time I have completed this project, I will have fully functioning website with proper text and images at the appropriate locations. 
